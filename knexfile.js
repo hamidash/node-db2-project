@@ -1,4 +1,5 @@
 // no need to change this file
+//empty commit
 const sharedConfig = {
   client: 'sqlite3',
   useNullAsDefault: true,
